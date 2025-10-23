@@ -1,1 +1,0 @@
-# auto_nour_bot
